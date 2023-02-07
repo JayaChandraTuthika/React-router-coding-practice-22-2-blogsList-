@@ -1,0 +1,24 @@
+* {
+  /* border: 1px solid black; */
+  font-family: 'roboto';
+}
+
+.blog-item-container {
+  padding: 10px;
+  width: 100%;
+  display: flex;
+}
+.blog-title {
+  font-size: 25px;
+  color: #12022f;
+}
+.blog-description {
+  font-size: 15px;
+  color: #9aa5b1;
+}
+.blog-time {
+  color: #9aa5b1;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-left: auto;
+}
